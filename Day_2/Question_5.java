@@ -8,6 +8,7 @@ public class Question_5 {
         System.out.print("Enter the number : ");
         n = Sc.nextInt();
         int n1=n;
+        
         int sum =0;
         int r =0;
         while(n>0)
