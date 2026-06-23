@@ -19,6 +19,7 @@ public class Question_89 {
             }
 
             boolean found = false;
+            
             for (int j = 0; j < str.length(); j++) {
                 if (i == j) {
                     continue;
